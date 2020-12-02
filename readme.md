@@ -7,7 +7,7 @@
 * с разрешения 768px до 1339px выделяются каждые два блока в строчке;
 * с разрешения 1340px и до бесконечности выделяются каждые три блока.
 ***
-[https://avanesov89.github.io/grid-nth-child/](Пример реализации)
+[Пример реализации](https://avanesov89.github.io/grid-nth-child/)
 ## Мои контакты: 
 * Email: <avanesov89@mail.ru>
 * Telegram: [@avanesov89](https://t-do.ru/avanesov89)
